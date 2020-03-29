@@ -1,0 +1,534 @@
+item,itemLabel,deaths,pointintime
+http://www.wikidata.org/entity/Q2763,The Holocaust,6000000,1941-01-01T00:00:00Z
+http://www.wikidata.org/entity/Q80034,Armenian Genocide,1200000,1915-01-01T00:00:00Z
+http://www.wikidata.org/entity/Q911233,Greek genocide,450000,1913-01-01T00:00:00Z
+http://www.wikidata.org/entity/Q192055,Nanjing Massacre,200000,1937-01-01T00:00:00Z
+http://www.wikidata.org/entity/Q181289,Bodo League massacre,200000,1950-01-01T00:00:00Z
+http://www.wikidata.org/entity/Q3487920,Intelligenzaktion,100000,1939-01-01T00:00:00Z
+http://www.wikidata.org/entity/Q699787,Manila massacre,100000,1945-01-01T00:00:00Z
+http://www.wikidata.org/entity/Q2655890,NKVD prisoner massacres,100000,1941-01-01T00:00:00Z
+http://www.wikidata.org/entity/Q695020,massacres of Poles in Volhynia and Eastern Galicia,80000,1942-01-01T00:00:00Z
+http://www.wikidata.org/entity/Q12504990,Pontianak incidents,50000,1943-01-01T00:00:00Z
+http://www.wikidata.org/entity/Q6044171,Intelligenzaktion Pommern,40000,1939-01-01T00:00:00Z
+http://www.wikidata.org/entity/Q695020,massacres of Poles in Volhynia and Eastern Galicia,30000,1942-01-01T00:00:00Z
+http://www.wikidata.org/entity/Q481526,Kamianets-Podilskyi Massacre,23600,1941-01-01T00:00:00Z
+http://www.wikidata.org/entity/Q134301,Katyn massacre,22000,1940-01-01T00:00:00Z
+http://www.wikidata.org/entity/Q941312,massacre at Béziers,20000,1209-07-29T00:00:00Z
+http://www.wikidata.org/entity/Q730878,Hama massacre,10000,1982-01-01T00:00:00Z
+http://www.wikidata.org/entity/Q170334,Srebrenica massacre,8000,1995-07-22T00:00:00Z
+http://www.wikidata.org/entity/Q3504310,1984 Anti-Sikh Genocide,8000,1984-11-03T00:00:00Z
+http://www.wikidata.org/entity/Q1155064,massacre of Thessalonica,7000,0390-01-01T00:00:00Z
+http://www.wikidata.org/entity/Q1527609,Koriukivka massacre,6700,1943-03-01T00:00:00Z
+http://www.wikidata.org/entity/Q537576,massacre of the Acqui Division,5155,1943-09-26T00:00:00Z
+http://www.wikidata.org/entity/Q47890072,1987 Onsong-12 prison riot,5000,1987-05-01T00:00:00Z
+http://www.wikidata.org/entity/Q2608210,Paracuellos massacres,4000,1936-12-01T00:00:00Z
+http://www.wikidata.org/entity/Q796398,Ba Chuc Massacre,3157,1978-04-18T00:00:00Z
+http://www.wikidata.org/entity/Q2367644,Awa'uq Massacre,3000,1784-08-14T00:00:00Z
+http://www.wikidata.org/entity/Q10806,September 11 attacks,2996,2001-09-11T00:00:00Z
+http://www.wikidata.org/entity/Q3504310,1984 Anti-Sikh Genocide,2800,1984-11-03T00:00:00Z
+http://www.wikidata.org/entity/Q60830,Lisbon Massacre,2500,1506-04-01T00:00:00Z
+http://www.wikidata.org/entity/Q61984612,Клане в Гютели махле,2400,1877-07-14T00:00:00Z
+http://www.wikidata.org/entity/Q1290410,Glina massacres,2394,1941-05-12T00:00:00Z
+http://www.wikidata.org/entity/Q17199280,Camp Speicher massacre,1600,2014-06-12T00:00:00Z
+http://www.wikidata.org/entity/Q17199280,Camp Speicher massacre,1570,2014-06-12T00:00:00Z
+http://www.wikidata.org/entity/Q14626794,August 2013 Ghouta chemical attack,1429,2013-08-21T00:00:00Z
+http://www.wikidata.org/entity/Q86192668,Ագուլիսի ջարդեր,1400,1919-12-24T00:00:00Z
+http://www.wikidata.org/entity/Q496095,Ganghwa massacre,1300,1951-01-06T00:00:00Z
+http://www.wikidata.org/entity/Q56685959,Transport and murder of Białystok children,1200,1943-01-01T00:00:00Z
+http://www.wikidata.org/entity/Q68458380,Zbrodnie na pacjentach w Państwowym Zakładzie dla Umysłowo i Nerwowo Chorych w Kobierzynie,1000,1942-06-23T00:00:00Z
+http://www.wikidata.org/entity/Q3297470,Yelwa massacre,1000,2004-01-01T00:00:00Z
+http://www.wikidata.org/entity/Q6762569,Marichjhapi massacre,1000,1979-01-01T00:00:00Z
+http://www.wikidata.org/entity/Q12504990,Pontianak incidents,1000,1943-01-01T00:00:00Z
+http://www.wikidata.org/entity/Q61118876,Страшното,800,1877-07-20T00:00:00Z
+http://www.wikidata.org/entity/Q704206,Marzabotto massacre,770,1944-10-05T00:00:00Z
+http://www.wikidata.org/entity/Q2441042,massacre of Butrimonys,740,1941-09-09T00:00:00Z
+http://www.wikidata.org/entity/Q491018,Geochang massacre,719,1951-02-09T00:00:00Z
+http://www.wikidata.org/entity/Q496145,Sancheong-Hamyang massacre,705,1951-02-07T00:00:00Z
+http://www.wikidata.org/entity/Q836897,massacre of Oradour-sur-Glane,642,1944-06-10T00:00:00Z
+http://www.wikidata.org/entity/Q218446,Khojaly Massacre,613,1992-02-26T00:00:00Z
+http://www.wikidata.org/entity/Q1464154,Weenen massacre,530,1838-02-17T00:00:00Z
+http://www.wikidata.org/entity/Q183421,My Lai Massacre,504,1968-03-16T00:00:00Z
+http://www.wikidata.org/entity/Q2367644,Awa'uq Massacre,500,1784-08-14T00:00:00Z
+http://www.wikidata.org/entity/Q123170,Cinema Rex fire,470,1978-08-19T00:00:00Z
+http://www.wikidata.org/entity/Q15891798,Namyangju Massacre,460,1950-10-01T00:00:00Z
+http://www.wikidata.org/entity/Q9388665,Prkos massacre,438,1941-12-21T00:00:00Z
+http://www.wikidata.org/entity/Q497528,Binh Hoa massacre,430,1966-12-06T00:00:00Z
+http://www.wikidata.org/entity/Q208855,Jallianwala Bagh massacre,379,1919-04-13T00:00:00Z
+http://www.wikidata.org/entity/Q616307,Indian massacre of 1622,347,1622-03-22T00:00:00Z
+http://www.wikidata.org/entity/Q1136536,Meja Massacre,345,1999-04-28T00:00:00Z
+http://www.wikidata.org/entity/Q638761,Ardeatine massacre,335,1944-03-24T00:00:00Z
+http://www.wikidata.org/entity/Q108413,Wounded Knee Massacre,300,1890-12-29T00:00:00Z
+http://www.wikidata.org/entity/Q22948704,2016 Mosul massacre,300,2016-02-08T00:00:00Z
+http://www.wikidata.org/entity/Q1824714,Tulsa Massacre,300,1921-06-01T00:00:00Z
+http://www.wikidata.org/entity/Q3873371,Sinking of F174,283,1996-12-25T00:00:00Z
+http://www.wikidata.org/entity/Q3873371,Sinking of F174,283,1996-12-26T00:00:00Z
+http://www.wikidata.org/entity/Q63351598,Lipa massacre,269,1944-04-30T00:00:00Z
+http://www.wikidata.org/entity/Q475581,Masakr na Švédských šancích,265,1945-06-18T00:00:00Z
+http://www.wikidata.org/entity/Q1137013,Houla massacre,261,2012-05-25T00:00:00Z
+http://www.wikidata.org/entity/Q2523448,Plan de Sánchez massacre,250,1982-07-18T00:00:00Z
+http://www.wikidata.org/entity/Q17014905,Ramna massacre,250,1971-03-27T00:00:00Z
+http://www.wikidata.org/entity/Q740534,Dos Erres massacre,226,1982-12-06T00:00:00Z
+http://www.wikidata.org/entity/Q707956,Tungchow Mutiny,223,1937-07-29T00:00:00Z
+http://www.wikidata.org/entity/Q688821,Distomo massacre,218,1944-06-10T00:00:00Z
+http://www.wikidata.org/entity/Q496095,Ganghwa massacre,212,1951-01-06T00:00:00Z
+http://www.wikidata.org/entity/Q45825724,strage di Gorla,204,1944-10-20T00:00:00Z
+http://www.wikidata.org/entity/Q4390512,Paramythia executions,201,1943-09-01T00:00:00Z
+http://www.wikidata.org/entity/Q200472,Paris massacre of 1961,200,1961-10-17T00:00:00Z
+http://www.wikidata.org/entity/Q213531,11 de marzo de 2004,193,2004-03-11T00:00:00Z
+http://www.wikidata.org/entity/Q5614677,Gudovac massacre,192,1941-04-28T00:00:00Z
+http://www.wikidata.org/entity/Q764967,Andijan massacre,187,2005-05-13T00:00:00Z
+http://www.wikidata.org/entity/Q2436495,massacre of Sochy,185,1943-06-01T00:00:00Z
+http://www.wikidata.org/entity/Q9388641,Masakr v Majdańské Hutě,184,1943-07-12T00:00:00Z
+http://www.wikidata.org/entity/Q1639150,Domenikon Massacre,175,1943-02-17T00:00:00Z
+http://www.wikidata.org/entity/Q3718406,Padule di Fucecchio massacre,174,1944-08-23T00:00:00Z
+http://www.wikidata.org/entity/Q217528,Oklahoma City bombing,168,1995-04-19T00:00:00Z
+http://www.wikidata.org/entity/Q3297421,Bulhoek massacre,163,1921-05-24T00:00:00Z
+http://www.wikidata.org/entity/Q62389968,March 2019 attacks against Fulani herders,160,2019-03-23T00:00:00Z
+http://www.wikidata.org/entity/Q15410573,Benisheik massacre,159,2013-09-18T00:00:00Z
+http://www.wikidata.org/entity/Q74068231,Massaker von Pazin,157,1943-10-04T00:00:00Z
+http://www.wikidata.org/entity/Q4390509,Medvedev Forest massacre,157,1941-09-11T00:00:00Z
+http://www.wikidata.org/entity/Q430700,Khatyn massacre,156,1943-03-22T00:00:00Z
+http://www.wikidata.org/entity/Q3525320,Goyang Geumjeong Cave Massacre,153,1950-10-09T00:00:00Z
+http://www.wikidata.org/entity/Q18732673,2015 Baga massacre,150,2015-01-07T00:00:00Z
+http://www.wikidata.org/entity/Q19671417,Germanwings Flight 9525,150,2015-03-24T00:00:00Z
+http://www.wikidata.org/entity/Q11785458,murder in the Bratian Forest,150,1939-10-15T00:00:00Z
+http://www.wikidata.org/entity/Q19750438,Garissa University College attack,148,2015-04-02T00:00:00Z
+http://www.wikidata.org/entity/Q1201832,Budyonnovsk hospital hostage crisis,147,1995-06-19T00:00:00Z
+http://www.wikidata.org/entity/Q18641076,2014 Peshawar school attack,145,2014-12-16T00:00:00Z
+http://www.wikidata.org/entity/Q211582,Zong massacre,142,1781-11-29T00:00:00Z
+http://www.wikidata.org/entity/Q7126934,Palawan massacre,139,1944-12-14T00:00:00Z
+http://www.wikidata.org/entity/Q60774860,Maidan Shar attack,129,2019-01-21T00:00:00Z
+http://www.wikidata.org/entity/Q14941833,Peshawar church bombing,127,2013-09-22T00:00:00Z
+http://www.wikidata.org/entity/Q1862197,"Maratha, Santalaris and Aloda massacre",126,1974-08-14T00:00:00Z
+http://www.wikidata.org/entity/Q60842217,Massaker von San Martino di Lupari,125,1945-04-29T00:00:00Z
+http://www.wikidata.org/entity/Q20679588,2015 Khan Bani Saad bombing,125,2015-07-17T00:00:00Z
+http://www.wikidata.org/entity/Q14513646,Khan al-Assal massacre,123,2013-07-22T00:00:00Z
+http://www.wikidata.org/entity/Q48723698,Putis massacre,123,1984-01-01T00:00:00Z
+http://www.wikidata.org/entity/Q20871346,Saint-Genis-Laval massacre,120,1944-08-20T00:00:00Z
+http://www.wikidata.org/entity/Q12815319,Piet Retief Delegation massacre,116,1838-02-06T00:00:00Z
+http://www.wikidata.org/entity/Q2335758,Gulf Air Flight 771,112,1983-09-23T00:00:00Z
+http://www.wikidata.org/entity/Q1126268,Deir Yassin massacre,111,1948-04-09T00:00:00Z
+http://www.wikidata.org/entity/Q2341407,Carandiru massacre,111,1992-10-02T00:00:00Z
+http://www.wikidata.org/entity/Q63392172,Vallucciole massacre,108,1944-04-13T00:00:00Z
+http://www.wikidata.org/entity/Q55098324,Masacrele de la Tărcaia și Grădinari (1919),108,1919-04-19T00:00:00Z
+http://www.wikidata.org/entity/Q18732673,2015 Baga massacre,100,2015-01-07T00:00:00Z
+http://www.wikidata.org/entity/Q1907348,Thammasat University massacre,100,1976-10-06T00:00:00Z
+http://www.wikidata.org/entity/Q2027138,Kfar Etzion massacre,100,1948-05-13T00:00:00Z
+http://www.wikidata.org/entity/Q641064,Le Paradis massacre,97,1940-05-27T00:00:00Z
+http://www.wikidata.org/entity/Q21083277,2015 Ankara bombings,95,2015-10-10T00:00:00Z
+http://www.wikidata.org/entity/Q27972892,Lyngiades massacre,92,1943-10-03T00:00:00Z
+http://www.wikidata.org/entity/Q162228,Malmedy massacre,90,1944-12-17T00:00:00Z
+http://www.wikidata.org/entity/Q487582,Mungyeong massacre,88,1949-12-24T00:00:00Z
+http://www.wikidata.org/entity/Q25893254,2016 Nice attack,87,2016-07-14T00:00:00Z
+http://www.wikidata.org/entity/Q706535,Ascq massacre,86,1944-04-01T00:00:00Z
+http://www.wikidata.org/entity/Q569287,Bologna massacre,85,1980-08-02T00:00:00Z
+http://www.wikidata.org/entity/Q22348438,2016 Dalori attack,85,2016-01-30T00:00:00Z
+http://www.wikidata.org/entity/Q1306574,Massaker von Radolišta,84,1944-10-28T00:00:00Z
+http://www.wikidata.org/entity/Q11464493,Sorokdo massacre,82,1945-08-21T00:00:00Z
+http://www.wikidata.org/entity/Q25995756,July 2016 Kabul bombing,80,2016-07-23T00:00:00Z
+http://www.wikidata.org/entity/Q79967,2011 Norway attacks,77,2011-07-22T00:00:00Z
+http://www.wikidata.org/entity/Q1929123,Hadassah medical convoy massacre,77,1948-04-13T00:00:00Z
+http://www.wikidata.org/entity/Q23638613,2016 Lahore suicide bombing,75,2016-03-27T00:00:00Z
+http://www.wikidata.org/entity/Q4928065,Bloody Gulch massacre,75,1950-08-12T00:00:00Z
+http://www.wikidata.org/entity/Q6005734,matança de frares a Madrid de 1834,73,1834-07-17T00:00:00Z
+http://www.wikidata.org/entity/Q952516,2010 San Fernando massacre,72,2010-08-24T00:00:00Z
+http://www.wikidata.org/entity/Q23890868,April 2016 Kabul attack,71,2016-04-19T00:00:00Z
+http://www.wikidata.org/entity/Q2097350,Tuzla massacre,71,1995-05-25T00:00:00Z
+http://www.wikidata.org/entity/Q10551743,Käpplinge murders,70,1389-06-17T00:00:00Z
+http://www.wikidata.org/entity/Q303059,Thiaroye Massacre,70,1944-12-01T00:00:00Z
+http://www.wikidata.org/entity/Q5786070,Machuca massacre,70,1998-10-18T00:00:00Z
+http://www.wikidata.org/entity/Q569304,22 December 2011 Baghdad bombings,69,2011-12-22T00:00:00Z
+http://www.wikidata.org/entity/Q518753,Sharpeville massacre,69,1960-03-21T00:00:00Z
+http://www.wikidata.org/entity/Q4672685,Accomarca massacre,69,1985-08-14T00:00:00Z
+http://www.wikidata.org/entity/Q28406214,Skelani massacre,69,1993-01-16T00:00:00Z
+http://www.wikidata.org/entity/Q3377611,Utøya massacre,69,2011-07-22T00:00:00Z
+http://www.wikidata.org/entity/Q14941568,Westgate shopping mall shooting,67,2013-09-21T00:00:00Z
+http://www.wikidata.org/entity/Q1417490,1929 Hebron massacre,67,1929-08-24T00:00:00Z
+http://www.wikidata.org/entity/Q15119203,Glogova massacre,64,1992-05-09T00:00:00Z
+http://www.wikidata.org/entity/Q46826615,Hon Dinh massacre,62,1966-01-21T00:00:00Z
+http://www.wikidata.org/entity/Q19619385,2015 Shikarpur bombing,61,2015-01-30T00:00:00Z
+http://www.wikidata.org/entity/Q3438698,Sijekovac killings,59,1992-03-01T00:00:00Z
+http://www.wikidata.org/entity/Q41522095,2017 Las Vegas shooting,59,2017-10-01T00:00:00Z
+http://www.wikidata.org/entity/Q15826444,Federal Government College attack,59,2014-02-25T00:00:00Z
+http://www.wikidata.org/entity/Q829737,Deutsch Schützen massacre,58,1945-03-29T00:00:00Z
+http://www.wikidata.org/entity/Q6005233,Carmen de Patagones school shooting,56,2004-09-28T00:00:00Z
+http://www.wikidata.org/entity/Q12415571,Велешко клане,53,1945-01-15T00:00:00Z
+http://www.wikidata.org/entity/Q62066211,Christchurch mosque shootings,51,2019-03-15T00:00:00Z
+http://www.wikidata.org/entity/Q63451338,Eccidio di via Ghega,51,1944-04-23T00:00:00Z
+http://www.wikidata.org/entity/Q24561572,2016 Orlando nightclub shooting,50,2016-06-12T00:00:00Z
+http://www.wikidata.org/entity/Q7191299,Pidjiguiti Massacre,50,1959-08-03T00:00:00Z
+http://www.wikidata.org/entity/Q16347866,Q16347866,50,1941-06-01T00:00:00Z
+http://www.wikidata.org/entity/Q24561572,2016 Orlando nightclub shooting,49,2016-06-12T00:00:00Z
+http://www.wikidata.org/entity/Q8079711,Čemerno massacre,49,1992-06-10T00:00:00Z
+http://www.wikidata.org/entity/Q3271831,Suva Reka massacre,48,1999-03-26T00:00:00Z
+http://www.wikidata.org/entity/Q4695022,Ahatovići massacre,47,1992-06-14T00:00:00Z
+http://www.wikidata.org/entity/Q1907348,Thammasat University massacre,46,1976-10-06T00:00:00Z
+http://www.wikidata.org/entity/Q30880661,"stragi di Ziano, Stramentizzo e Molina di Fiemme",45,1945-05-01T00:00:00Z
+http://www.wikidata.org/entity/Q2578008,Acteal massacre,45,1997-12-22T00:00:00Z
+http://www.wikidata.org/entity/Q2885128,Kielce cemetery massacre,45,1943-05-23T00:00:00Z
+http://www.wikidata.org/entity/Q3297426,Boipatong massacre,45,1992-06-17T00:00:00Z
+http://www.wikidata.org/entity/Q12205950,جمعة الكرامة,45,2011-03-18T00:00:00Z
+http://www.wikidata.org/entity/Q3297451,massacre of Penguerec,44,1944-08-07T00:00:00Z
+http://www.wikidata.org/entity/Q6408274,Kilvenmani massacre,44,1968-12-25T00:00:00Z
+http://www.wikidata.org/entity/Q2613862,Voćin massacre,43,1991-12-13T00:00:00Z
+http://www.wikidata.org/entity/Q61732241,2019 Pulwama attack,41,2019-02-14T00:00:00Z
+http://www.wikidata.org/entity/Q1587362,Ćuška massacre,41,1999-05-14T00:00:00Z
+http://www.wikidata.org/entity/Q56491645,Masacrul de la Beliș,41,1918-11-08T00:00:00Z
+http://www.wikidata.org/entity/Q4594742,1999 Grozny refugee convoy shooting,40,1999-01-01T00:00:00Z
+http://www.wikidata.org/entity/Q20295077,2015 Sousse attack,39,2015-06-26T00:00:00Z
+http://www.wikidata.org/entity/Q2134739,Moiwana massacre,39,1986-11-29T00:00:00Z
+http://www.wikidata.org/entity/Q28094271,2017 Istanbul nightclub attack,39,2017-01-01T00:00:00Z
+http://www.wikidata.org/entity/Q1824714,Tulsa Massacre,39,1921-06-01T00:00:00Z
+http://www.wikidata.org/entity/Q1254804,massacre of Glencoe,38,1692-02-12T00:00:00Z
+http://www.wikidata.org/entity/Q18720403,2015 Sana'a bombing,38,2015-01-07T00:00:00Z
+http://www.wikidata.org/entity/Q2406819,Glinciszki massacre,37,1944-06-20T00:00:00Z
+http://www.wikidata.org/entity/Q20870041,Denmark Place fire,37,1980-08-16T00:00:00Z
+http://www.wikidata.org/entity/Q23045905,March 2016 Ankara bombing,37,2016-03-13T00:00:00Z
+http://www.wikidata.org/entity/Q897808,Sivas massacre,37,1993-07-02T00:00:00Z
+http://www.wikidata.org/entity/Q3505714,Životická tragédie,36,1944-01-01T00:00:00Z
+http://www.wikidata.org/entity/Q2357517,Port Arthur massacre,35,1996-04-28T00:00:00Z
+http://www.wikidata.org/entity/Q4632559,27 October 2003 Baghdad bombings,35,2003-10-27T00:00:00Z
+http://www.wikidata.org/entity/Q4858038,Bara Massacre,35,1992-02-13T00:00:00Z
+http://www.wikidata.org/entity/Q303059,Thiaroye Massacre,35,1944-12-01T00:00:00Z
+http://www.wikidata.org/entity/Q65640303,Kyoto Animation arson attack,35,2019-07-18T00:00:00Z
+http://www.wikidata.org/entity/Q23365300,2016 Brussels bombings,35,2016-03-22T00:00:00Z
+http://www.wikidata.org/entity/Q21573363,Port Arthur massacre (Australia),35,1996-04-28T00:00:00Z
+http://www.wikidata.org/entity/Q23365300,2016 Brussels bombings,34,2016-03-22T00:00:00Z
+http://www.wikidata.org/entity/Q3671565,Uludere airstrike,34,2011-12-28T00:00:00Z
+http://www.wikidata.org/entity/Q5348566,Ehden massacre,34,1978-06-13T00:00:00Z
+http://www.wikidata.org/entity/Q188799,Virginia Tech shooting,33,2007-04-16T00:00:00Z
+http://www.wikidata.org/entity/Q20685047,2015 Suruç bombing,33,2015-07-20T00:00:00Z
+http://www.wikidata.org/entity/Q5518640,Galimpur massacre,33,1971-05-20T00:00:00Z
+http://www.wikidata.org/entity/Q63992999,Masacre de Socos,32,1983-12-13T00:00:00Z
+http://www.wikidata.org/entity/Q1144602,Sumgait pogrom,32,1988-03-01T00:00:00Z
+http://www.wikidata.org/entity/Q11785455,Borów massacre,31,1943-08-09T00:00:00Z
+http://www.wikidata.org/entity/Q11802141,Zanie and Szpaki massacre,31,1946-02-01T00:00:00Z
+http://www.wikidata.org/entity/Q15856657,2014 Kunming attack,31,2014-03-01T00:00:00Z
+http://www.wikidata.org/entity/Q3476414,"Amsterdam shooting on the Dam, 7 May 1945",31,1945-05-07T00:00:00Z
+http://www.wikidata.org/entity/Q76515992,Masacre de Cayara,31,1988-05-14T00:00:00Z
+http://www.wikidata.org/entity/Q84599740,Nakhon Ratchasima shooting,30,2020-02-08T00:00:00Z
+http://www.wikidata.org/entity/Q11785457,Puchały Stare massacre,30,1946-01-31T00:00:00Z
+http://www.wikidata.org/entity/Q22082207,2016 Ouagadougou attacks,30,2016-01-16T00:00:00Z
+http://www.wikidata.org/entity/Q1783157,Cave of the Patriarchs massacre,29,1994-02-25T00:00:00Z
+http://www.wikidata.org/entity/Q84599740,Nakhon Ratchasima shooting,29,2020-02-08T00:00:00Z
+http://www.wikidata.org/entity/Q19688939,strage di Corrubbio,29,1945-04-25T00:00:00Z
+http://www.wikidata.org/entity/Q1770923,Bisho massacre,29,1992-09-07T00:00:00Z
+http://www.wikidata.org/entity/Q906933,Sandy Hook Elementary School shooting,28,2012-12-14T00:00:00Z
+http://www.wikidata.org/entity/Q1154073,Lod Airport massacre,28,1972-05-30T00:00:00Z
+http://www.wikidata.org/entity/Q1785309,Myall Creek Massacre,28,1838-06-10T00:00:00Z
+http://www.wikidata.org/entity/Q12276145,Гарванско клане,28,1923-03-02T00:00:00Z
+http://www.wikidata.org/entity/Q25250323,"2016 Gulshan, Dhaka attack",28,2016-07-01T00:00:00Z
+http://www.wikidata.org/entity/Q66822981,2019 Coatzacoalcos Massacre,28,2019-08-27T00:00:00Z
+http://www.wikidata.org/entity/Q20281004,Kuwait mosque bombing,27,2015-06-26T00:00:00Z
+http://www.wikidata.org/entity/Q571354,Novocherkassk massacre,26,1962-06-01T00:00:00Z
+http://www.wikidata.org/entity/Q42725753,Sutherland Springs church shooting,26,2017-11-05T00:00:00Z
+http://www.wikidata.org/entity/Q41599927,Masacre de Alía,24,1942-08-16T00:00:00Z
+http://www.wikidata.org/entity/Q981327,Haditha killings,24,2005-11-19T00:00:00Z
+http://www.wikidata.org/entity/Q5200341,Cypress Hills massacre,24,1873-06-02T00:00:00Z
+http://www.wikidata.org/entity/Q473896,San Ysidro McDonald's massacre,23,1984-07-18T00:00:00Z
+http://www.wikidata.org/entity/Q4135498,Luby's massacre,23,1991-10-16T00:00:00Z
+http://www.wikidata.org/entity/Q30015850,2017 Manchester Arena bombing,23,2017-05-22T00:00:00Z
+http://www.wikidata.org/entity/Q4608917,2007 Mosul massacre,23,2007-04-23T00:00:00Z
+http://www.wikidata.org/entity/Q5744075,Herrin massacre,23,1922-06-01T00:00:00Z
+http://www.wikidata.org/entity/Q66108236,2019 El Paso shooting,22,2019-08-03T00:00:00Z
+http://www.wikidata.org/entity/Q23045756,2016 Grand-Bassam shootings,22,2016-03-13T00:00:00Z
+http://www.wikidata.org/entity/Q1034076,Bangka Island massacre,22,1942-02-16T00:00:00Z
+http://www.wikidata.org/entity/Q1185525,1956 Georgian demonstrations,22,1956-03-09T00:00:00Z
+http://www.wikidata.org/entity/Q6784476,1951 executions in Albania,22,1951-01-01T00:00:00Z
+http://www.wikidata.org/entity/Q10546229,Klečka killings,22,1998-07-01T00:00:00Z
+http://www.wikidata.org/entity/Q55184134,Parkala Massacre,22,1947-09-02T00:00:00Z
+http://www.wikidata.org/entity/Q58412,1987 Hipercor bombing,21,1987-06-19T00:00:00Z
+http://www.wikidata.org/entity/Q57417004,Kerch Polytechnic College massacre,21,2018-10-17T00:00:00Z
+http://www.wikidata.org/entity/Q19613356,Bardo National Museum attack,21,2015-03-18T00:00:00Z
+http://www.wikidata.org/entity/Q6433084,Kosheh Massacres,21,2000-01-02T00:00:00Z
+http://www.wikidata.org/entity/Q20826727,2015 Bangkok bombing,20,2015-08-17T00:00:00Z
+http://www.wikidata.org/entity/Q4928061,Bloody Falls Massacre,20,1771-07-17T00:00:00Z
+http://www.wikidata.org/entity/Q18748338,January 2015 Île-de-France attacks,20,2015-01-07T00:00:00Z
+http://www.wikidata.org/entity/Q21516923,2015 Bamako hotel attack,20,2015-11-20T00:00:00Z
+http://www.wikidata.org/entity/Q2756844,Courcelles Massacre,19,1944-08-18T00:00:00Z
+http://www.wikidata.org/entity/Q2869958,Church Street bombing,19,1983-05-20T00:00:00Z
+http://www.wikidata.org/entity/Q14490866,1987 Lieyu Massacre,19,1987-03-07T00:00:00Z
+http://www.wikidata.org/entity/Q26084467,Sagamihara stabbings,19,2016-07-26T00:00:00Z
+http://www.wikidata.org/entity/Q1985449,1938 Tiberias pogrom,19,1938-10-02T00:00:00Z
+http://www.wikidata.org/entity/Q2930434,2007 Shinwar shooting,19,2007-03-04T00:00:00Z
+http://www.wikidata.org/entity/Q5193032,Cullin-La-Ringo massacre,19,1861-10-17T00:00:00Z
+http://www.wikidata.org/entity/Q6497151,Lattimer massacre,19,1897-09-10T00:00:00Z
+http://www.wikidata.org/entity/Q1153159,Dunblane school massacre,18,1996-03-13T00:00:00Z
+http://www.wikidata.org/entity/Q28403236,University of Texas Tower Shooting,18,1966-07-31T00:00:00Z
+http://www.wikidata.org/entity/Q28403236,University of Texas Tower Shooting,18,1966-08-01T00:00:00Z
+http://www.wikidata.org/entity/Q6005217,Masacre de Torreón,18,2010-01-01T00:00:00Z
+http://www.wikidata.org/entity/Q473877,Erfurt massacre,17,2002-04-26T00:00:00Z
+http://www.wikidata.org/entity/Q473880,Hungerford massacre,17,1987-08-19T00:00:00Z
+http://www.wikidata.org/entity/Q48714898,Marjory Stoneman Douglas High School shooting,17,2018-02-14T00:00:00Z
+http://www.wikidata.org/entity/Q2181206,Aguas Blancas massacre,17,1995-06-28T00:00:00Z
+http://www.wikidata.org/entity/Q4598836,2001 Kishtwar massacre,17,2001-08-03T00:00:00Z
+http://www.wikidata.org/entity/Q11901245,Vihti Massacre of 1918,17,1918-02-01T00:00:00Z
+http://www.wikidata.org/entity/Q14774038,Sugarloaf Massacre,17,1780-09-11T00:00:00Z
+http://www.wikidata.org/entity/Q30147595,2017 Tehran attacks,17,2017-06-07T00:00:00Z
+http://www.wikidata.org/entity/Q9388698,Zaleszany massacre,16,1946-01-29T00:00:00Z
+http://www.wikidata.org/entity/Q158102,Winnenden school shooting,16,2009-03-11T00:00:00Z
+http://www.wikidata.org/entity/Q21613643,2015 San Bernardino shooting,16,2015-12-02T00:00:00Z
+http://www.wikidata.org/entity/Q473834,École Polytechnique massacre,15,1989-12-06T00:00:00Z
+http://www.wikidata.org/entity/Q473845,Columbine High School massacre,15,1999-04-20T00:00:00Z
+http://www.wikidata.org/entity/Q3975736,Massacre of Piazzale Loreto,15,1944-08-10T00:00:00Z
+http://www.wikidata.org/entity/Q4592316,1997 Colombo World Trade Centre bombing,15,1997-10-15T00:00:00Z
+http://www.wikidata.org/entity/Q73804598,2019 Yala attack,15,2019-11-06T00:00:00Z
+http://www.wikidata.org/entity/Q26761773,2016 Davao City bombing,15,2016-09-02T00:00:00Z
+http://www.wikidata.org/entity/Q30035999,Edmond post office shooting,15,1986-08-20T00:00:00Z
+http://www.wikidata.org/entity/Q686944,Černová massacre,15,1907-10-27T00:00:00Z
+http://www.wikidata.org/entity/Q876357,Peterloo Massacre,15,1819-08-16T00:00:00Z
+http://www.wikidata.org/entity/Q1486461,Penzberg massacre,15,1945-04-28T00:00:00Z
+http://www.wikidata.org/entity/Q3029749,Barrios Altos massacre,15,1991-11-03T00:00:00Z
+http://www.wikidata.org/entity/Q6005198,Masacre de Santa Bárbara (Perú),15,1991-07-04T00:00:00Z
+http://www.wikidata.org/entity/Q190819,Bloody Sunday,14,1972-01-30T00:00:00Z
+http://www.wikidata.org/entity/Q473868,Aramoana massacre,14,1990-11-14T00:00:00Z
+http://www.wikidata.org/entity/Q51882541,Chacina das Cajazeiras,14,2018-01-27T00:00:00Z
+http://www.wikidata.org/entity/Q37001445,2017 Catalonia attacks,14,2017-08-17T00:00:00Z
+http://www.wikidata.org/entity/Q37735341,Atemptat a la Rambla de Barcelona,14,2017-08-17T00:00:00Z
+http://www.wikidata.org/entity/Q886799,Bloody Sunday,14,1920-11-21T00:00:00Z
+http://www.wikidata.org/entity/Q9050465,St. Daniel's Night,14,1865-04-10T00:00:00Z
+http://www.wikidata.org/entity/Q14607541,Penn's Creek Massacre,14,1755-10-16T00:00:00Z
+http://www.wikidata.org/entity/Q41790626,Appin massacre,14,1816-04-16T00:00:00Z
+http://www.wikidata.org/entity/Q464048,Oktoberfest terror attack,13,1980-09-26T00:00:00Z
+http://www.wikidata.org/entity/Q473862,2009 Fort Hood shooting,13,2009-11-05T00:00:00Z
+http://www.wikidata.org/entity/Q15106043,2012 Makhachkala attack,13,2012-05-03T00:00:00Z
+http://www.wikidata.org/entity/Q23392308,2016 Arish attack,13,2016-03-20T00:00:00Z
+http://www.wikidata.org/entity/Q123069,Cumbria shootings,13,2010-06-02T00:00:00Z
+http://www.wikidata.org/entity/Q58345424,Thousand Oaks shooting,13,2018-11-07T00:00:00Z
+http://www.wikidata.org/entity/Q64214898,Virginia Beach shooting,13,2019-05-31T00:00:00Z
+http://www.wikidata.org/entity/Q18718876,Charlie Hebdo shooting,13,2015-01-07T00:00:00Z
+http://www.wikidata.org/entity/Q21931407,2016 Pathankot attack,13,2016-01-05T00:00:00Z
+http://www.wikidata.org/entity/Q202512,2012 Aurora shooting,12,2012-07-20T00:00:00Z
+http://www.wikidata.org/entity/Q229007,Munich massacre,12,1972-09-01T00:00:00Z
+http://www.wikidata.org/entity/Q1803283,2008 Morelia grenade attacks,12,2008-09-15T00:00:00Z
+http://www.wikidata.org/entity/Q7496435,Shiguan kindergarten attack,12,2006-05-08T00:00:00Z
+http://www.wikidata.org/entity/Q16610812,Massaker von Farneta,12,1944-09-07T00:00:00Z
+http://www.wikidata.org/entity/Q28036573,2016 Berlin attack,12,2016-12-19T00:00:00Z
+http://www.wikidata.org/entity/Q40869704,Lekemti massacre,12,1936-06-27T00:00:00Z
+http://www.wikidata.org/entity/Q4284234,Kushchyovskaya massacre,12,2010-11-04T00:00:00Z
+http://www.wikidata.org/entity/Q16892404,Hornet Bank massacre,12,1857-10-27T00:00:00Z
+http://www.wikidata.org/entity/Q2756743,assassination of Anwar Sadat,12,1981-10-06T00:00:00Z
+http://www.wikidata.org/entity/Q26220302,2016 Kokrajhar shooting,12,2016-08-05T00:00:00Z
+http://www.wikidata.org/entity/Q322450,Cologne school massacre,11,1964-06-11T00:00:00Z
+http://www.wikidata.org/entity/Q473863,Geneva County massacre,11,2009-03-10T00:00:00Z
+http://www.wikidata.org/entity/Q473889,Kauhajoki school shooting,11,2008-09-23T00:00:00Z
+http://www.wikidata.org/entity/Q805426,Ballymurphy massacre,11,1971-08-11T00:00:00Z
+http://www.wikidata.org/entity/Q816220,Beltway sniper attacks,11,2002-09-26T00:00:00Z
+http://www.wikidata.org/entity/Q1356047,execution of the Romanov family,11,1918-07-16T00:00:00Z
+http://www.wikidata.org/entity/Q2869951,City of Poros ship attack,11,1988-07-11T00:00:00Z
+http://www.wikidata.org/entity/Q2909804,Ma'ale Akrabim massacre,11,1954-03-17T00:00:00Z
+http://www.wikidata.org/entity/Q57830735,Pittsburgh synagogue shooting,11,2018-10-27T00:00:00Z
+http://www.wikidata.org/entity/Q67781338,Strage di Berceto,11,1944-04-17T00:00:00Z
+http://www.wikidata.org/entity/Q22039066,2016 Istanbul bombing,11,2016-01-12T00:00:00Z
+http://www.wikidata.org/entity/Q30119692,June 2017 London attack,11,2017-06-03T00:00:00Z
+http://www.wikidata.org/entity/Q28162432,Trujillo massacre,11,2016-05-28T00:00:00Z
+http://www.wikidata.org/entity/Q63179372,1961 Silchar shooting,11,1961-05-19T00:00:00Z
+http://www.wikidata.org/entity/Q369336,National Socialist Underground murders,10,2000-09-09T00:00:00Z
+http://www.wikidata.org/entity/Q487163,Nepalese royal massacre,10,2001-06-01T00:00:00Z
+http://www.wikidata.org/entity/Q21036673,Umpqua Community College shooting,10,2015-10-01T00:00:00Z
+http://www.wikidata.org/entity/Q53725630,Santa Fe High School shooting,10,2018-05-18T00:00:00Z
+http://www.wikidata.org/entity/Q62055402,Suzano Massacre,10,2019-03-13T00:00:00Z
+http://www.wikidata.org/entity/Q547328,Kingsmill massacre,10,1976-01-05T00:00:00Z
+http://www.wikidata.org/entity/Q66120984,2019 Dayton shooting,10,2019-08-04T00:00:00Z
+http://www.wikidata.org/entity/Q83571557,Chilapa-Massaker,10,2020-01-17T00:00:00Z
+http://www.wikidata.org/entity/Q18711517,2004 Grozny stadium bombing,10,2004-05-09T00:00:00Z
+http://www.wikidata.org/entity/Q1540446,Memorial Day massacre of 1937,10,1937-05-30T00:00:00Z
+http://www.wikidata.org/entity/Q5918256,La Cantuta massacre,10,1992-07-18T00:00:00Z
+http://www.wikidata.org/entity/Q48734865,Inn Din massacre,10,2017-09-02T00:00:00Z
+http://www.wikidata.org/entity/Q64032614,Masacre de Uchuraccay,10,1983-01-26T00:00:00Z
+http://www.wikidata.org/entity/Q85636305,2020 Hanau shootings,10,2020-02-19T00:00:00Z
+http://www.wikidata.org/entity/Q1297497,Enoch Brown school massacre,10,1764-07-26T00:00:00Z
+http://www.wikidata.org/entity/Q7959256,Wadi al-Haramiya sniper attack,10,2002-03-03T00:00:00Z
+http://www.wikidata.org/entity/Q25980145,2016 Munich shooting,10,2016-07-22T00:00:00Z
+http://www.wikidata.org/entity/Q369336,National Socialist Underground murders,9,2000-09-09T00:00:00Z
+http://www.wikidata.org/entity/Q600836,Jokela school shooting,9,2007-11-07T00:00:00Z
+http://www.wikidata.org/entity/Q65936041,Strage di Afragola,9,1943-10-02T00:00:00Z
+http://www.wikidata.org/entity/Q73644053,LeBaron family massacre,9,2019-11-04T00:00:00Z
+http://www.wikidata.org/entity/Q82083044,Masacre de Ikabarú,9,2019-11-22T00:00:00Z
+http://www.wikidata.org/entity/Q41108729,Masacre del pozo Funeres,9,1948-01-01T00:00:00Z
+http://www.wikidata.org/entity/Q5432020,Fall Creek Massacre,9,1824-03-22T00:00:00Z
+http://www.wikidata.org/entity/Q7930966,Villatina Massacre,9,1992-11-15T00:00:00Z
+http://www.wikidata.org/entity/Q12639983,Mokronoge massacre,9,1993-08-10T00:00:00Z
+http://www.wikidata.org/entity/Q15730206,Midnight Massacre (1945),9,1945-07-01T00:00:00Z
+http://www.wikidata.org/entity/Q28220348,Avenue Range Station massacre,9,1848-01-01T00:00:00Z
+http://www.wikidata.org/entity/Q7270522,Queen Street massacre,9,1987-12-08T00:00:00Z
+http://www.wikidata.org/entity/Q19358494,Uherský Brod shooting,9,2015-02-24T00:00:00Z
+http://www.wikidata.org/entity/Q20154675,"2015 Charleston, South Carolina shooting",9,2015-06-17T00:00:00Z
+http://www.wikidata.org/entity/Q401654,Villisca Axe Murders,8,1912-01-01T00:00:00Z
+http://www.wikidata.org/entity/Q473894,Nanterre massacre,8,2002-03-27T00:00:00Z
+http://www.wikidata.org/entity/Q725982,Osaka school massacre,8,2001-06-08T00:00:00Z
+http://www.wikidata.org/entity/Q13651871,Nanping school massacre,8,2010-03-23T00:00:00Z
+http://www.wikidata.org/entity/Q2464378,Canicattì massacre,8,1943-07-01T00:00:00Z
+http://www.wikidata.org/entity/Q5572964,Glynn County mass murder,8,2009-08-29T00:00:00Z
+http://www.wikidata.org/entity/Q7622106,Strathfield massacre,8,1991-08-17T00:00:00Z
+http://www.wikidata.org/entity/Q42440670,2017 Lower Manhattan attack,8,2017-10-31T00:00:00Z
+http://www.wikidata.org/entity/Q55657737,Sakalauskase juhtum,8,1987-02-24T00:00:00Z
+http://www.wikidata.org/entity/Q58854762,Monroyo massacre,8,1947-11-11T00:00:00Z
+http://www.wikidata.org/entity/Q66007181,Freddy's Fashion Mart attack,8,1995-12-08T00:00:00Z
+http://www.wikidata.org/entity/Q72308468,Gorny shooting,8,2019-10-25T00:00:00Z
+http://www.wikidata.org/entity/Q18702358,Womey massacre,8,2014-09-01T00:00:00Z
+http://www.wikidata.org/entity/Q19865885,Fountain Valley massacre,8,1972-09-06T00:00:00Z
+http://www.wikidata.org/entity/Q28679197,Massacre d'Ipatinga,8,1963-10-07T00:00:00Z
+http://www.wikidata.org/entity/Q64765769,Masacre de Tarapoto,8,1989-05-31T00:00:00Z
+http://www.wikidata.org/entity/Q66938457,2019 West Texas shooting,8,2019-08-31T00:00:00Z
+http://www.wikidata.org/entity/Q1781240,Greysteel massacre,8,1993-10-30T00:00:00Z
+http://www.wikidata.org/entity/Q1975720,1999 Armenian parliament shooting,8,1999-10-27T00:00:00Z
+http://www.wikidata.org/entity/Q4443728,2011 Seal Beach shooting,8,2011-10-12T00:00:00Z
+http://www.wikidata.org/entity/Q11317007,101 California Street shooting,8,1993-07-01T00:00:00Z
+http://www.wikidata.org/entity/Q17554,Oikos University shooting,7,2012-04-02T00:00:00Z
+http://www.wikidata.org/entity/Q925737,Akihabara massacre,7,2008-06-08T00:00:00Z
+http://www.wikidata.org/entity/Q57393172,2003 Latifiya ambush,7,2003-11-29T00:00:00Z
+http://www.wikidata.org/entity/Q18758263,2015 Gyumri massacre,7,2015-01-12T00:00:00Z
+http://www.wikidata.org/entity/Q23846681,Sucesos del Descargador,7,1916-03-07T00:00:00Z
+http://www.wikidata.org/entity/Q4975926,Brown's Chicken massacre,7,1993-01-08T00:00:00Z
+http://www.wikidata.org/entity/Q5317700,Duša massacre,7,1993-01-15T00:00:00Z
+http://www.wikidata.org/entity/Q473866,Alphen aan den Rijn shopping mall shooting,7,2011-04-09T00:00:00Z
+http://www.wikidata.org/entity/Q7961083,Wakefield massacre,7,2000-12-26T00:00:00Z
+http://www.wikidata.org/entity/Q30903994,Masacre de Los Surgentes,7,1976-10-17T00:00:00Z
+http://www.wikidata.org/entity/Q30904256,Masacre del Pasaje Marchena,7,1977-02-17T00:00:00Z
+http://www.wikidata.org/entity/Q16938335,2014 Isla Vista killings,7,2014-05-23T00:00:00Z
+http://www.wikidata.org/entity/Q53561433,Osmington shooting,7,2018-05-11T00:00:00Z
+http://www.wikidata.org/entity/Q58101451,2018 Minya bus attack,7,2018-11-02T00:00:00Z
+http://www.wikidata.org/entity/Q66095667,Zagreb shooting,7,2019-08-02T00:00:00Z
+http://www.wikidata.org/entity/Q5021103,"California State University, Fullerton massacre",7,1976-07-12T00:00:00Z
+http://www.wikidata.org/entity/Q5875978,Hoddle Street massacre,7,1987-08-09T00:00:00Z
+http://www.wikidata.org/entity/Q7362784,Romanshorn shooting,7,1912-08-30T00:00:00Z
+http://www.wikidata.org/entity/Q3241047,Amish school shooting,6,2006-10-02T00:00:00Z
+http://www.wikidata.org/entity/Q43177417,Rancho Tehama Reserve shootings,6,2017-11-13T00:00:00Z
+http://www.wikidata.org/entity/Q43177417,Rancho Tehama Reserve shootings,6,2017-11-14T00:00:00Z
+http://www.wikidata.org/entity/Q44716783,Fonderie Riunite massacre,6,1950-01-09T00:00:00Z
+http://www.wikidata.org/entity/Q20671234,2015 Chattanooga shootings,6,2015-07-16T00:00:00Z
+http://www.wikidata.org/entity/Q23055179,Gage Park stabbings,6,2016-02-04T00:00:00Z
+http://www.wikidata.org/entity/Q24930704,Tate murders,6,1969-01-01T00:00:00Z
+http://www.wikidata.org/entity/Q29653393,San Giacomo masacre,6,1944-09-30T00:00:00Z
+http://www.wikidata.org/entity/Q18551886,2014 Jerusalem synagogue attack,6,2014-11-18T00:00:00Z
+http://www.wikidata.org/entity/Q39055119,Gabès pogrom,6,1941-05-19T00:00:00Z
+http://www.wikidata.org/entity/Q61742015,"2019 Aurora, Illinois shooting",6,2019-02-15T00:00:00Z
+http://www.wikidata.org/entity/Q78090929,Jersey City shooting,6,2019-12-10T00:00:00Z
+http://www.wikidata.org/entity/Q84725257,2020 Rot am See shooting,6,2020-01-24T00:00:00Z
+http://www.wikidata.org/entity/Q550756,2012 Moscow shooting,6,2012-11-07T00:00:00Z
+http://www.wikidata.org/entity/Q757986,2011 Tucson shooting,6,2011-01-08T00:00:00Z
+http://www.wikidata.org/entity/Q1090997,Eppstein school shooting,6,1983-06-03T00:00:00Z
+http://www.wikidata.org/entity/Q1239979,Střelba v Bratislavě,6,1919-02-12T00:00:00Z
+http://www.wikidata.org/entity/Q2458178,2009 Espoo shopping mall shooting,6,2009-12-31T00:00:00Z
+http://www.wikidata.org/entity/Q2982599,1993 Long Island Rail Road shooting,6,1993-12-07T00:00:00Z
+http://www.wikidata.org/entity/Q3091167,Goldenberg restaurant attack,6,1982-08-09T00:00:00Z
+http://www.wikidata.org/entity/Q22910769,2016 Kalamazoo shootings,6,2016-02-20T00:00:00Z
+http://www.wikidata.org/entity/Q23055181,2016 Wilkinsburg shooting,6,2016-03-09T00:00:00Z
+http://www.wikidata.org/entity/Q27629584,2016 Citronelle homicides,6,2016-08-20T00:00:00Z
+http://www.wikidata.org/entity/Q28549976,2017 Quebec City mosque shooting,6,2017-01-29T00:00:00Z
+http://www.wikidata.org/entity/Q30147595,2017 Tehran attacks,6,2017-06-07T00:00:00Z
+http://www.wikidata.org/entity/Q30323897,2017 Orlando shooting,6,2017-06-05T00:00:00Z
+http://www.wikidata.org/entity/Q87442534,Masacre de Pativilca,6,1992-01-29T00:00:00Z
+http://www.wikidata.org/entity/Q18341089,Marysville Pilchuck High School shooting,5,2014-10-24T00:00:00Z
+http://www.wikidata.org/entity/Q3118719,massacre of 3rd of March in Vitoria,5,1976-03-03T00:00:00Z
+http://www.wikidata.org/entity/Q6392257,Kentucky Fried Chicken murders,5,1983-09-23T00:00:00Z
+http://www.wikidata.org/entity/Q6797090,Mayerthorpe tragedy,5,2005-03-03T00:00:00Z
+http://www.wikidata.org/entity/Q10578103,massemordet på dampskibet Prins Carl,5,1900-05-17T00:00:00Z
+http://www.wikidata.org/entity/Q10716836,Von Sydow murders,5,1932-03-07T00:00:00Z
+http://www.wikidata.org/entity/Q39472,Greensboro massacre,5,1979-11-03T00:00:00Z
+http://www.wikidata.org/entity/Q215687,Boston Massacre,5,1770-03-05T00:00:00Z
+http://www.wikidata.org/entity/Q55239340,Capital Gazette shooting,5,2018-06-28T00:00:00Z
+http://www.wikidata.org/entity/Q16211090,Newhall massacre,5,1970-04-05T00:00:00Z
+http://www.wikidata.org/entity/Q16674658,Artsimovich family murders,5,1895-01-01T00:00:00Z
+http://www.wikidata.org/entity/Q16962694,Lin family murders,5,2009-07-18T00:00:00Z
+http://www.wikidata.org/entity/Q25631175,2016 shooting of Dallas police officers,5,2016-07-07T00:00:00Z
+http://www.wikidata.org/entity/Q37001445,2017 Catalonia attacks,5,2017-08-17T00:00:00Z
+http://www.wikidata.org/entity/Q852450,Shimonoseki Station massacre,5,1999-09-29T00:00:00Z
+http://www.wikidata.org/entity/Q3489516,Pottawatomie Massacre,5,1856-01-01T00:00:00Z
+http://www.wikidata.org/entity/Q5579337,Golden Dragon massacre,5,1977-09-04T00:00:00Z
+http://www.wikidata.org/entity/Q63256321,Fusilados de Soca,5,1974-12-20T00:00:00Z
+http://www.wikidata.org/entity/Q6492157,Las Cruces Bowling Alley Massacre,5,1990-02-10T00:00:00Z
+http://www.wikidata.org/entity/Q59647120,2018 Strasbourg attack,5,2018-12-11T00:00:00Z
+http://www.wikidata.org/entity/Q886485,1977 massacre of Atocha,5,1977-01-24T00:00:00Z
+http://www.wikidata.org/entity/Q7289100,Ramat Rachel shooting attack,5,1956-09-23T00:00:00Z
+http://www.wikidata.org/entity/Q19600326,2015 Bamako shooting,5,2015-03-07T00:00:00Z
+http://www.wikidata.org/entity/Q27000234,Cascade Mall shooting,5,2016-09-23T00:00:00Z
+http://www.wikidata.org/entity/Q28133931,2017 Fort Lauderdale Airport shooting,5,2017-01-06T00:00:00Z
+http://www.wikidata.org/entity/Q30646585,2017 Weis Markets shooting,5,2017-06-08T00:00:00Z
+http://www.wikidata.org/entity/Q50842170,Carcassonne and Trèbes attack,5,2018-03-23T00:00:00Z
+http://www.wikidata.org/entity/Q252032,Mahmudiyah killings,4,2006-03-12T00:00:00Z
+http://www.wikidata.org/entity/Q4353728,Lindhurst High School shooting,4,1992-05-01T00:00:00Z
+http://www.wikidata.org/entity/Q22241734,La Loche shootings,4,2016-01-22T00:00:00Z
+http://www.wikidata.org/entity/Q3975719,strage di Erba,4,2006-12-11T00:00:00Z
+http://www.wikidata.org/entity/Q6081513,2001 Isla Vista massacre,4,2001-02-23T00:00:00Z
+http://www.wikidata.org/entity/Q10869046,Setagaya family murders,4,2000-12-30T00:00:00Z
+http://www.wikidata.org/entity/Q56678661,"Aberdeen, Maryland shooting",4,2018-09-20T00:00:00Z
+http://www.wikidata.org/entity/Q16915197,Taipei Metro massacre,4,2014-05-21T00:00:00Z
+http://www.wikidata.org/entity/Q19345837,2015 Kharkiv bombing,4,2015-02-22T00:00:00Z
+http://www.wikidata.org/entity/Q20050610,"2015 Washington, D.C., quadruple murder incident",4,2015-01-01T00:00:00Z
+http://www.wikidata.org/entity/Q20732036,2015 Diyarbakır rally bombings,4,2015-06-05T00:00:00Z
+http://www.wikidata.org/entity/Q24454786,June 2016 Tel Aviv shooting,4,2016-06-08T00:00:00Z
+http://www.wikidata.org/entity/Q28149391,January 2017 Jerusalem vehicular attack,4,2017-01-08T00:00:00Z
+http://www.wikidata.org/entity/Q56043189,Fredericton shooting,4,2018-08-10T00:00:00Z
+http://www.wikidata.org/entity/Q62090804,2019 Utrecht shooting,4,2019-03-18T00:00:00Z
+http://www.wikidata.org/entity/Q64362231,2019 Darwin shooting,4,2019-06-04T00:00:00Z
+http://www.wikidata.org/entity/Q65966131,Gilroy Garlic Festival shooting,4,2019-07-28T00:00:00Z
+http://www.wikidata.org/entity/Q77597184,Naval Air Station Pensacola shooting,4,2019-12-06T00:00:00Z
+http://www.wikidata.org/entity/Q482635,Kent State shootings,4,1970-05-04T00:00:00Z
+http://www.wikidata.org/entity/Q15255064,Monbar Hotel attack,4,1985-09-25T00:00:00Z
+http://www.wikidata.org/entity/Q16016666,2014 Fort Hood shooting,4,2014-04-02T00:00:00Z
+http://www.wikidata.org/entity/Q22690128,Amoklauf von Bad Reichenhall,4,1999-11-01T00:00:00Z
+http://www.wikidata.org/entity/Q25497906,פיגוע הירי בחדרה,4,2001-10-28T00:00:00Z
+http://www.wikidata.org/entity/Q30319823,June 2017 Jerusalem attack,4,2017-06-16T00:00:00Z
+http://www.wikidata.org/entity/Q30323925,UPS shooting in San Francisco,4,2017-06-14T00:00:00Z
+http://www.wikidata.org/entity/Q41071849,2017 Har Adar shooting,4,2017-09-26T00:00:00Z
+http://www.wikidata.org/entity/Q452575,Amakasu Incident,3,1923-09-16T00:00:00Z
+http://www.wikidata.org/entity/Q1804414,Aarhus University shooting,3,1994-04-05T00:00:00Z
+http://www.wikidata.org/entity/Q2341831,Chardon High School shooting,3,2012-02-27T00:00:00Z
+http://www.wikidata.org/entity/Q4780857,Appalachian School of Law shooting,3,2002-01-16T00:00:00Z
+http://www.wikidata.org/entity/Q45178445,Aztec High School shooting,3,2017-12-07T00:00:00Z
+http://www.wikidata.org/entity/Q45320276,49th Street Elementary School shooting,3,1984-02-24T00:00:00Z
+http://www.wikidata.org/entity/Q63339715,Eccidio di San Martino Spino,3,1944-12-13T00:00:00Z
+http://www.wikidata.org/entity/Q21154238,Lions' Gate stabbings,3,2015-10-03T00:00:00Z
+http://www.wikidata.org/entity/Q29022140,1971 Newry killings,3,1971-10-23T00:00:00Z
+http://www.wikidata.org/entity/Q55723938,Danforth shooting,3,2018-07-22T00:00:00Z
+http://www.wikidata.org/entity/Q56256213,Jacksonville Landing shooting,3,2018-08-26T00:00:00Z
+http://www.wikidata.org/entity/Q60441954,Torrance bowling alley shooting,3,2019-01-04T00:00:00Z
+http://www.wikidata.org/entity/Q2071916,2010 University of Alabama in Huntsville shooting,3,2010-02-12T00:00:00Z
+http://www.wikidata.org/entity/Q7099791,Orangeburg massacre,3,1968-02-08T00:00:00Z
+http://www.wikidata.org/entity/Q21171141,Trollhättan school attack,3,2015-10-22T00:00:00Z
+http://www.wikidata.org/entity/Q21923384,January 2016 Tel Aviv shooting,3,2016-01-01T00:00:00Z
+http://www.wikidata.org/entity/Q25814757,St. Joseph courthouse shooting,3,2016-07-11T00:00:00Z
+http://www.wikidata.org/entity/Q27779829,Darkley killings,3,1983-11-20T00:00:00Z
+http://www.wikidata.org/entity/Q27956602,Imatra shooting,3,2016-12-03T00:00:00Z
+http://www.wikidata.org/entity/Q27956602,Imatra shooting,3,2016-12-04T00:00:00Z
+http://www.wikidata.org/entity/Q30646305,2017 Sandy attack,3,2017-06-06T00:00:00Z
+http://www.wikidata.org/entity/Q5328036,East Carter High School shooting,2,1993-01-18T00:00:00Z
+http://www.wikidata.org/entity/Q7296216,Raumanmeri school shooting,2,1989-01-25T00:00:00Z
+http://www.wikidata.org/entity/Q7330635,Richland High School shooting,2,1995-11-15T00:00:00Z
+http://www.wikidata.org/entity/Q15708337,2014 Moscow school shooting,2,2014-02-03T00:00:00Z
+http://www.wikidata.org/entity/Q47487873,Marshall County High School shooting,2,2018-01-23T00:00:00Z
+http://www.wikidata.org/entity/Q50841850,Cleveland Elementary School shooting (San Diego),2,1979-01-29T00:00:00Z
+http://www.wikidata.org/entity/Q5004337,Byron David Smith killings,2,2012-11-22T00:00:00Z
+http://www.wikidata.org/entity/Q37001445,2017 Catalonia attacks,2,2017-08-17T00:00:00Z
+http://www.wikidata.org/entity/Q64112,Dawson College shooting,2,2006-09-13T00:00:00Z
+http://www.wikidata.org/entity/Q428045,Hyvinkää shooting,2,2012-05-26T00:00:00Z
+http://www.wikidata.org/entity/Q16551157,massacre of Celano,2,1950-04-30T00:00:00Z
+http://www.wikidata.org/entity/Q16601614,Coro massacre,2,2013-07-04T00:00:00Z
+http://www.wikidata.org/entity/Q24234104,Derdepoort massacre,2,1899-11-25T00:00:00Z
+http://www.wikidata.org/entity/Q42307187,Goyases School Shooting,2,2017-10-14T00:00:00Z
+http://www.wikidata.org/entity/Q60583463,Massacre of Avola,2,1968-12-02T00:00:00Z
+http://www.wikidata.org/entity/Q2298504,Baflo shooting,2,2011-04-13T00:00:00Z
+http://www.wikidata.org/entity/Q6898265,Monash University shooting,2,2002-10-21T00:00:00Z
+http://www.wikidata.org/entity/Q33035595,2017 Temple Mount shooting,2,2017-07-14T00:00:00Z
+http://www.wikidata.org/entity/Q38806978,2017 Clovis library shooting,2,2017-08-28T00:00:00Z
+http://www.wikidata.org/entity/Q39058130,Danzig Street shooting,2,2012-07-16T00:00:00Z
+http://www.wikidata.org/entity/Q48810169,Copper Canyon Apartment Homes shooting,2,2017-12-31T00:00:00Z
+http://www.wikidata.org/entity/Q61694313,Напад на школу ў Стоўбцах,2,2019-02-11T00:00:00Z
+http://www.wikidata.org/entity/Q18345398,Viljandi school shooting,1,2014-10-27T00:00:00Z
+http://www.wikidata.org/entity/Q30527711,1970 Munich bus attack,1,1970-02-10T00:00:00Z
+http://www.wikidata.org/entity/Q37001445,2017 Catalonia attacks,1,2017-08-17T00:00:00Z
+http://www.wikidata.org/entity/Q37735341,Atemptat a la Rambla de Barcelona,1,2017-08-17T00:00:00Z
+http://www.wikidata.org/entity/Q1814824,Kraków pogrom,1,1945-08-11T00:00:00Z
+http://www.wikidata.org/entity/Q63353827,Poway synagogue shooting,1,2019-04-27T00:00:00Z
+http://www.wikidata.org/entity/Q7442121,Seattle Jewish Federation shooting,1,2006-07-28T00:00:00Z
+http://www.wikidata.org/entity/Q15121730,2013 Los Angeles International Airport shooting,1,2013-11-01T00:00:00Z
+http://www.wikidata.org/entity/Q30278163,2017 Congressional baseball shooting,1,2017-01-01T00:00:00Z
+http://www.wikidata.org/entity/Q30278163,2017 Congressional baseball shooting,1,2017-06-14T00:00:00Z
+http://www.wikidata.org/entity/Q42530020,Burnette Chapel shooting,1,2017-09-24T00:00:00Z
+http://www.wikidata.org/entity/Q51339458,YouTube headquarters shooting,1,2018-04-03T00:00:00Z
+http://www.wikidata.org/entity/Q30745303,2006 Roseburg High School shooting,0,2006-02-23T00:00:00Z
+http://www.wikidata.org/entity/Q55032258,Noblesville West Middle School shooting,0,2018-05-25T00:00:00Z
+http://www.wikidata.org/entity/Q6005728,Matanza de Plaza Colón,t1461846347,1906-02-06T00:00:00Z
+http://www.wikidata.org/entity/Q764967,Andijan massacre,t184762862,2005-05-13T00:00:00Z

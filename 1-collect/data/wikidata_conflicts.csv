@@ -1,0 +1,112 @@
+item,itemLabel,deaths,starttime,endtime
+http://www.wikidata.org/entity/Q362,World War II,73000000,1939-09-01T00:00:00Z,1945-09-02T00:00:00Z
+http://www.wikidata.org/entity/Q361,World War I,17000000,1914-07-28T00:00:00Z,1918-11-11T00:00:00Z
+http://www.wikidata.org/entity/Q8740,Vietnam War,4211459,1965-11-01T00:00:00Z,1975-04-30T00:00:00Z
+http://www.wikidata.org/entity/Q8740,Vietnam War,1291425,1965-11-01T00:00:00Z,1975-04-30T00:00:00Z
+http://www.wikidata.org/entity/Q58947,War of the Triple Alliance,1000000,1864-12-27T00:00:00Z,1870-03-01T00:00:00Z
+http://www.wikidata.org/entity/Q131297,Genocide against the Tutsis,1000000,1994-04-07T00:00:00Z,1994-07-17T00:00:00Z
+http://www.wikidata.org/entity/Q131297,Genocide against the Tutsis,800000,1994-04-07T00:00:00Z,1994-07-17T00:00:00Z
+http://www.wikidata.org/entity/Q94916,Second Italo-Ethiopian War,275000,1935-10-03T00:00:00Z,1936-05-01T00:00:00Z
+http://www.wikidata.org/entity/Q192660,Battle of Okinawa,200656,1945-04-01T00:00:00Z,1945-06-23T00:00:00Z
+http://www.wikidata.org/entity/Q154182,Battle of Berlin,200000,1945-04-16T00:00:00Z,1945-05-02T00:00:00Z
+http://www.wikidata.org/entity/Q185407,La Violencia,200000,1949-12-06T00:00:00Z,1958-01-01T00:00:00Z
+http://www.wikidata.org/entity/Q213394,Sri Lankan Civil War,100000,1983-07-23T00:00:00Z,2009-05-18T00:00:00Z
+http://www.wikidata.org/entity/Q2742886,Lithuanian Wars of Independence,38000,1918-12-01T00:00:00Z,1919-08-01T00:00:00Z
+http://www.wikidata.org/entity/Q316868,Bombing of Hamburg in World War II,34000,1939-09-11T00:00:00Z,1945-04-14T00:00:00Z
+http://www.wikidata.org/entity/Q152142,Bombing of Dresden in World War II,25000,1945-02-13T00:00:00Z,1945-02-15T00:00:00Z
+http://www.wikidata.org/entity/Q152142,Bombing of Dresden in World War II,22700,1945-02-13T00:00:00Z,1945-02-15T00:00:00Z
+http://www.wikidata.org/entity/Q94916,Second Italo-Ethiopian War,20000,1935-10-03T00:00:00Z,1936-05-01T00:00:00Z
+http://www.wikidata.org/entity/Q941312,massacre at Béziers,20000,1209-07-29T00:00:00Z,1209-07-29T00:00:00Z
+http://www.wikidata.org/entity/Q6402599,Khost rebellion (1924–1925),14000,1924-03-01T00:00:00Z,1925-01-30T00:00:00Z
+http://www.wikidata.org/entity/Q6683,Mexican–American War,11733,1846-04-24T00:00:00Z,1848-02-02T00:00:00Z
+http://www.wikidata.org/entity/Q5163326,consolidation of the Iranian Revolution,10000,1979-02-14T00:00:00Z,1983-12-01T00:00:00Z
+http://www.wikidata.org/entity/Q4871088,Battle of Genale Doria,9000,1936-01-12T00:00:00Z,1936-01-20T00:00:00Z
+http://www.wikidata.org/entity/Q167259,Battle of Lützen (1632),8400,1632-11-16T00:00:00Z,1632-11-16T00:00:00Z
+http://www.wikidata.org/entity/Q309184,Boshin War,8200,1868-01-27T00:00:00Z,1869-06-27T00:00:00Z
+http://www.wikidata.org/entity/Q3504310,1984 Anti-Sikh Genocide,8000,1984-10-31T00:00:00Z,1984-11-03T00:00:00Z
+http://www.wikidata.org/entity/Q2946372,Northern Mali conflict,7000,2012-01-16T00:00:00Z,2015-02-20T00:00:00Z
+http://www.wikidata.org/entity/Q2887840,Battle of Amba Aradam,6000,1936-02-10T00:00:00Z,1936-02-19T00:00:00Z
+http://www.wikidata.org/entity/Q209965,Casamance conflict,5000,1982-01-01T00:00:00Z,2014-05-01T00:00:00Z
+http://www.wikidata.org/entity/Q815436,The Troubles,3532,1960-01-01T00:00:00Z,1998-01-01T00:00:00Z
+http://www.wikidata.org/entity/Q3504310,1984 Anti-Sikh Genocide,2800,1984-10-31T00:00:00Z,1984-11-03T00:00:00Z
+http://www.wikidata.org/entity/Q60830,Lisbon Massacre,2500,1506-04-19T00:00:00Z,1506-05-01T00:00:00Z
+http://www.wikidata.org/entity/Q17324420,2014 Israel–Gaza conflict,2205,2014-07-08T00:00:00Z,2014-08-26T00:00:00Z
+http://www.wikidata.org/entity/Q3299864,Aden Emergency,2096,1963-10-14T00:00:00Z,1967-11-30T00:00:00Z
+http://www.wikidata.org/entity/Q210005,2011 Yemeni revolution,2000,2011-01-27T00:00:00Z,2012-02-27T00:00:00Z
+http://www.wikidata.org/entity/Q49104,2006 Lebanon War,1191,2006-07-12T00:00:00Z,2006-08-14T00:00:00Z
+http://www.wikidata.org/entity/Q204213,Romanian Revolution,1104,1989-12-16T00:00:00Z,1989-12-27T00:00:00Z
+http://www.wikidata.org/entity/Q48249,Falklands War,891,1982-04-02T00:00:00Z,1982-06-14T00:00:00Z
+http://www.wikidata.org/entity/Q1141380,Battle of Wake Island,820,1941-12-08T00:00:00Z,1941-12-23T00:00:00Z
+http://www.wikidata.org/entity/Q2887840,Battle of Amba Aradam,800,1936-02-10T00:00:00Z,1936-02-19T00:00:00Z
+http://www.wikidata.org/entity/Q697579,Battle of Lake Khasan,792,1938-07-29T00:00:00Z,1938-08-11T00:00:00Z
+http://www.wikidata.org/entity/Q15282537,Maiduguri battle,700,2009-07-27T00:00:00Z,2009-07-30T00:00:00Z
+http://www.wikidata.org/entity/Q697579,Battle of Lake Khasan,526,1938-07-29T00:00:00Z,1938-08-11T00:00:00Z
+http://www.wikidata.org/entity/Q21182913,Bombing of Hajdúböszörmény in the WWII,423,1944-08-12T00:00:00Z,1944-08-21T00:00:00Z
+http://www.wikidata.org/entity/Q18920234,Battle of Labuan,423,1945-06-10T00:00:00Z,1945-06-21T00:00:00Z
+http://www.wikidata.org/entity/Q459447,Siege of Yorktown,397,1781-09-28T00:00:00Z,1781-10-19T00:00:00Z
+http://www.wikidata.org/entity/Q455747,Appenzell Wars,350,1401-01-01T00:00:00Z,1429-01-01T00:00:00Z
+http://www.wikidata.org/entity/Q622774,French Revolution of 1848,350,1848-02-22T00:00:00Z,1848-12-02T00:00:00Z
+http://www.wikidata.org/entity/Q1824714,Tulsa Massacre,300,1921-05-31T00:00:00Z,1921-06-01T00:00:00Z
+http://www.wikidata.org/entity/Q18354410,Exeter Blitz,265,1942-04-23T00:00:00Z,1942-05-04T00:00:00Z
+http://www.wikidata.org/entity/Q620735,Russo-Georgian War,229,2008-08-07T00:00:00Z,2008-08-12T00:00:00Z
+http://www.wikidata.org/entity/Q49104,2006 Lebanon War,165,2006-07-12T00:00:00Z,2006-08-14T00:00:00Z
+http://www.wikidata.org/entity/Q24941215,bombardment of Porto Santo Stefano,165,1943-12-08T00:00:00Z,1944-06-07T00:00:00Z
+http://www.wikidata.org/entity/Q1851858,Dakota War of 1862,150,1862-08-17T00:00:00Z,1862-12-26T00:00:00Z
+http://www.wikidata.org/entity/Q1141380,Battle of Wake Island,122,1941-12-08T00:00:00Z,1941-12-23T00:00:00Z
+http://www.wikidata.org/entity/Q21182913,Bombing of Hajdúböszörmény in the WWII,120,1944-08-12T00:00:00Z,1944-08-21T00:00:00Z
+http://www.wikidata.org/entity/Q1280169,Battle of Prachuab Khirikhan,115,1941-12-08T00:00:00Z,1941-12-09T00:00:00Z
+http://www.wikidata.org/entity/Q15733401,2014 Ukrainian revolution,106,2014-02-18T00:00:00Z,2014-02-23T00:00:00Z
+http://www.wikidata.org/entity/Q21182913,Bombing of Hajdúböszörmény in the WWII,100,1944-08-12T00:00:00Z,1944-08-21T00:00:00Z
+http://www.wikidata.org/entity/Q3329738,Battle of Blair Mountain,95,1921-08-25T00:00:00Z,1921-09-02T00:00:00Z
+http://www.wikidata.org/entity/Q4082818,Białystok pogrom,88,1906-06-14T00:00:00Z,1906-06-16T00:00:00Z
+http://www.wikidata.org/entity/Q1851858,Dakota War of 1862,77,1862-08-17T00:00:00Z,1862-12-26T00:00:00Z
+http://www.wikidata.org/entity/Q17324420,2014 Israel–Gaza conflict,71,2014-07-08T00:00:00Z,2014-08-26T00:00:00Z
+http://www.wikidata.org/entity/Q327056,2011 Germany E. coli O104:H4 outbreak,53,2011-05-01T00:00:00Z,2011-06-01T00:00:00Z
+http://www.wikidata.org/entity/Q836310,Hong Kong 1967 leftist riots,51,1967-05-01T00:00:00Z,1967-12-01T00:00:00Z
+http://www.wikidata.org/entity/Q19429010,2014 Odessa clashes,48,2013-11-01T00:00:00Z,2014-05-02T00:00:00Z
+http://www.wikidata.org/entity/Q1203203,Marikana miners' strike,47,2012-08-10T00:00:00Z,2012-09-20T00:00:00Z
+http://www.wikidata.org/entity/Q2710498,Attica Prison riot,43,1971-09-09T00:00:00Z,1971-09-13T00:00:00Z
+http://www.wikidata.org/entity/Q768155,1967 Detroit riot,43,1967-07-23T00:00:00Z,1967-07-28T00:00:00Z
+http://www.wikidata.org/entity/Q28721487,Battle of Anianpelto,41,1918-04-17T00:00:00Z,1918-04-18T00:00:00Z
+http://www.wikidata.org/entity/Q21182913,Bombing of Hajdúböszörmény in the WWII,40,1944-08-12T00:00:00Z,1944-08-21T00:00:00Z
+http://www.wikidata.org/entity/Q1824714,Tulsa Massacre,39,1921-05-31T00:00:00Z,1921-06-01T00:00:00Z
+http://www.wikidata.org/entity/Q1280169,Battle of Prachuab Khirikhan,38,1941-12-08T00:00:00Z,1941-12-09T00:00:00Z
+http://www.wikidata.org/entity/Q385546,Battle of Alasay,35,2009-03-14T00:00:00Z,2009-03-23T00:00:00Z
+http://www.wikidata.org/entity/Q377682,Watts riots,34,1965-08-11T00:00:00Z,1965-08-16T00:00:00Z
+http://www.wikidata.org/entity/Q5265992,1943 Detroit race riot,34,1943-06-20T00:00:00Z,1943-06-22T00:00:00Z
+http://www.wikidata.org/entity/Q886691,Blutmai,33,1929-05-01T00:00:00Z,1929-05-03T00:00:00Z
+http://www.wikidata.org/entity/Q7010252,New Mexico State Penitentiary riot,33,1980-02-02T00:00:00Z,1980-02-03T00:00:00Z
+http://www.wikidata.org/entity/Q28721487,Battle of Anianpelto,32,1918-04-17T00:00:00Z,1918-04-18T00:00:00Z
+http://www.wikidata.org/entity/Q63482800,Gaza–Israel clashes (May 2019),31,2019-05-03T00:00:00Z,2019-05-06T00:00:00Z
+http://www.wikidata.org/entity/Q4582489,Battle of Mount Tumbledown,30,1982-06-13T00:00:00Z,1982-06-14T00:00:00Z
+http://www.wikidata.org/entity/Q2659473,Attack on Sydney Harbour,27,1942-05-31T00:00:00Z,1942-06-08T00:00:00Z
+http://www.wikidata.org/entity/Q4572764,1967 Newark riots,26,1967-07-12T00:00:00Z,1967-07-17T00:00:00Z
+http://www.wikidata.org/entity/Q6402878,Khujand prison riot,24,1997-04-14T00:00:00Z,1997-04-17T00:00:00Z
+http://www.wikidata.org/entity/Q24342277,2016 Aktobe shootings,17,2016-06-05T00:00:00Z,2016-06-06T00:00:00Z
+http://www.wikidata.org/entity/Q65065597,Urtatagai conflict,12,1925-11-27T00:00:00Z,1926-01-01T00:00:00Z
+http://www.wikidata.org/entity/Q1636573,Great Nordic Biker War,12,1994-01-01T00:00:00Z,1997-01-01T00:00:00Z
+http://www.wikidata.org/entity/Q392601,Shays' Rebellion,11,1786-08-31T00:00:00Z,1787-06-01T00:00:00Z
+http://www.wikidata.org/entity/Q3588253,1968 Chicago riots,11,1968-04-05T00:00:00Z,1968-04-07T00:00:00Z
+http://www.wikidata.org/entity/Q21182913,Bombing of Hajdúböszörmény in the WWII,11,1944-08-12T00:00:00Z,1944-08-21T00:00:00Z
+http://www.wikidata.org/entity/Q61717757,Q61717757,10,1522-01-01T00:00:00Z,1525-01-01T00:00:00Z
+http://www.wikidata.org/entity/Q4582489,Battle of Mount Tumbledown,9,1982-06-13T00:00:00Z,1982-06-14T00:00:00Z
+http://www.wikidata.org/entity/Q28721487,Battle of Anianpelto,9,1918-04-17T00:00:00Z,1918-04-18T00:00:00Z
+http://www.wikidata.org/entity/Q3182793,12-3 incident,8,1966-11-18T00:00:00Z,1967-01-28T00:00:00Z
+http://www.wikidata.org/entity/Q14556929,Santa Rosa Hitchhiker Murders,7,1972-01-01T00:00:00Z,1973-01-01T00:00:00Z
+http://www.wikidata.org/entity/Q29065,2011 England riots,5,2011-08-06T00:00:00Z,2011-08-11T00:00:00Z
+http://www.wikidata.org/entity/Q6868032,Minneapolis Teamsters Strike of 1934,4,1934-05-16T00:00:00Z,1934-08-21T00:00:00Z
+http://www.wikidata.org/entity/Q4571613,1964 Rochester race riot,4,1964-07-24T00:00:00Z,1964-07-26T00:00:00Z
+http://www.wikidata.org/entity/Q64143938,May 2019 Burkina Faso hostage rescue,4,2019-05-07T00:00:00Z,2019-05-10T00:00:00Z
+http://www.wikidata.org/entity/Q9347096,Q9347096,4,2003-03-05T00:00:00Z,2003-03-06T00:00:00Z
+http://www.wikidata.org/entity/Q448920,Dublin lock-out,2,1913-08-26T00:00:00Z,1914-01-18T00:00:00Z
+http://www.wikidata.org/entity/Q742731,Winnipeg General Strike,2,1919-05-15T00:00:00Z,1919-06-26T00:00:00Z
+http://www.wikidata.org/entity/Q4826029,Auto-Lite strike,2,1934-04-12T00:00:00Z,1934-06-03T00:00:00Z
+http://www.wikidata.org/entity/Q4586309,1990 Strangeways Prison riot,2,1990-04-01T00:00:00Z,1990-04-25T00:00:00Z
+http://www.wikidata.org/entity/Q64143938,May 2019 Burkina Faso hostage rescue,2,2019-05-07T00:00:00Z,2019-05-10T00:00:00Z
+http://www.wikidata.org/entity/Q15076387,Skirmish at Joncherey,2,1914-08-02T00:00:00Z,1914-08-02T00:00:00Z
+http://www.wikidata.org/entity/Q26257664,The Vichuga uprising,1,1932-04-06T00:00:00Z,1932-04-13T00:00:00Z
+http://www.wikidata.org/entity/Q385546,Battle of Alasay,1,2009-03-14T00:00:00Z,2009-03-23T00:00:00Z
+http://www.wikidata.org/entity/Q11985369,Q11985369,1,1990-03-15T00:00:00Z,1990-03-28T00:00:00Z
+http://www.wikidata.org/entity/Q30109227,Battle of Bamber Bridge,1,1943-06-24T00:00:00Z,1943-06-25T00:00:00Z
+http://www.wikidata.org/entity/Q22673238,2016 Mong Kok civil unrest,0,2016-02-08T00:00:00Z,2016-02-09T00:00:00Z
+http://www.wikidata.org/entity/Q244939,228 Incident,t1781385796,1947-02-27T00:00:00Z,1947-05-16T00:00:00Z
