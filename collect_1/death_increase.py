@@ -2,7 +2,6 @@ from argparse import ArgumentParser
 from datetime import datetime, timedelta
 import os
 import pandas as pd
-from pandas.io.json import json_normalize
 import requests
 import sys
 
@@ -13,7 +12,7 @@ def get_and_clean_data():
     """ Gets country deaths by day from API, filters to last week, cleans up country naming """
     historical = requests.get('https://corona.lmao.ninja/V2/historical')
 
-    df = json_normalize(historical.json(), sep='_')
+    df = pd.json_normalize(historical.json(), sep='_')
 
     deaths = [c for c in df.columns if 'deaths' in c]
     df = pd.melt(df, 'country', deaths, 'date', 'deaths')
@@ -27,7 +26,7 @@ def get_and_clean_data():
                        'burma': 'Myanmar', 'holy see': 'Vatican City'}
 
     df['country'] = df['country'].str.replace('\*| \(.+', '', regex=True) \
-        .map({**country_map, **addtl_countries})
+                                 .map({**country_map, **addtl_countries})
 
     return df
 
@@ -55,7 +54,7 @@ def get_last_seven_days_avg_increase(country=None):
 
     deaths = deaths.groupby(['country', 'date'], as_index=False)['deaths'].sum()
     deaths['increase'] = (deaths['deaths'] - deaths['deaths'].shift()) / deaths['deaths']
-    deaths = deaths.groupby('country')['increase'].mean()
+    deaths = deaths.groupby('country')['increase'].mean().reset_index()
 
     return deaths
 
