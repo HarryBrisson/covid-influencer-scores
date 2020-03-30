@@ -1,0 +1,20 @@
+{% extends 'base.html' %}
+
+
+{% block content %}
+<nav>
+    <form action="" method="GET">
+        layer 1:
+        <select name="event" id="event" onchange="this.form.submit()">
+            {% for e in events.keys() %}
+            <option value={{ e }}>{{ events[e]['itemLabel'] }}</option>
+            {% endfor %}.
+        </select>
+    </form>
+  </nav>
+  <section class="content">
+    {% if date %}
+    if acceleration continues, {{country}} death count will match {{events[event]['itemLabel']}} ({{events[event]['deaths']}}) by {{date}}
+    {% endif %}
+  </section>
+{% endblock %}
