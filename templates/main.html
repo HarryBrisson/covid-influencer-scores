@@ -13,8 +13,26 @@
     </form>
   </nav>
   <section class="content">
+    <p id="headline">
     {% if date %}
     if acceleration continues, {{country}} death count will match {{events[event]['itemLabel']}} ({{events[event]['deaths']}}) by {{date}}
     {% endif %}
+    </p>
+    <table class="blueTable">
+      <thead>
+        <tr>
+          <th>Date</th>
+          <th>Projected Deaths</th>
+        </tr>
+      </thead>
+      <tbody>
+      {% for d in dates %}
+        <tr>
+          <td>{{ d['date'] }}</td>
+          <td>{{ "{:,.0f}".format(d['deaths']) }}</td>
+        </tr>
+      {% endfor %}
+      </tbody>
+    </table>
   </section>
 {% endblock %}
