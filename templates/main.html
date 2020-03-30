@@ -4,7 +4,7 @@
 {% block content %}
 <nav>
     <form action="" method="GET">
-        layer 1:
+        comparison event:
         <select name="event" id="event" onchange="this.form.submit()">
             {% for e in events.keys() %}
             <option value={{ e }}>{{ events[e]['itemLabel'] }}</option>
