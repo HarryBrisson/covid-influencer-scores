@@ -1,0 +1,21 @@
+{
+    "dev": {
+        "app_function": "app.app",
+        "aws_region": "us-east-1",
+        "profile_name": "default",
+        "project_name": "ic19ka",
+        "runtime": "python3.6",
+        "s3_bucket": "zappa-ic19ka-dev"
+    },
+    "prod": {
+        "app_function": "app.app",
+        "aws_region": "us-east-1",
+        "profile_name": "default",
+        "project_name": "ic19ka",
+        "runtime": "python3.6",
+        "s3_bucket": "zappa-ic19ka",
+        "certificate_arn": "TBD",
+        "domain": "www.if-covid19-keeps-accelerating.com",
+        "route53_enabled": false
+    }
+}
