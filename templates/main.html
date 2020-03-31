@@ -6,8 +6,14 @@
     <form action="" method="GET">
         comparison event:
         <select name="event" id="event" onchange="this.form.submit()">
-            {% for e in events.keys() %}
+            {% for e in event_names %}
             <option value={{ e }}>{{ events[e]['itemLabel'] }}</option>
+            {% endfor %}.
+        </select><br>
+        country:
+        <select name="country" id="country" onchange="this.form.submit()">
+            {% for c in countries %}
+            <option value={{ c }}>{{ c }}</option>
             {% endfor %}.
         </select>
     </form>
@@ -15,9 +21,10 @@
   <section class="content">
     <p id="headline">
     {% if date %}
-    if acceleration continues, {{country}} death count will match {{events[event]['itemLabel']}} ({{events[event]['deaths']}}) by {{date}}
-    {% endif %}
+    <i>if acceleration continues, {{country}} death count will match {{events[event]['itemLabel']}} ({{ "{:,.0f}".format(events[event]['deaths'])}}) by {{date}}</i>
     </p>
+    <p>daily growth rate: {{ "{:.2f}".format(100*(increase_rate-1)) }}%</p>
+    <p>this is not an epidemiological model, just a demonstration of exponential growth</p>
     <table class="blueTable">
       <thead>
         <tr>
@@ -34,5 +41,7 @@
       {% endfor %}
       </tbody>
     </table>
+    {% endif %}
+
   </section>
 {% endblock %}
