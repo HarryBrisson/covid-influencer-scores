@@ -26,7 +26,9 @@ def main():
 
 	print(event)
 
-	countries = list(['all','USA'])
+	countries = get_countries()
+	if country:
+		countries = [country] + countries
 
 	if event:
 		date = get_estimated_date(current_deathcount,event,increase_rate)
@@ -38,6 +40,8 @@ def main():
 	print(date)
 
 	event_names = [''] + list(events.keys())
+	if event:
+		event_names = [event] + event_names
 
 
 	html = render_template('main.html',
