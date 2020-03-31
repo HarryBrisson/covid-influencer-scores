@@ -6,9 +6,10 @@ from covid19_stats import *
 
 def get_death_counts():
 	df = pd.read_csv('collect_1/data/death_stats.csv')
+	df = df.append({'safeName':'','itemLabel':'','deaths':0},ignore_index=True)
 	df = df.set_index('safeName')
-	dates = df[['deaths','pointintime','itemLabel']].to_dict(orient='index')
-	return dates
+	events = df[['deaths','itemLabel']].to_dict(orient='index')
+	return events
 
 def get_estimated_date(currentdeathcount,event,growthrate):
 	death_counts = get_death_counts()
