@@ -5,13 +5,7 @@ import pandas as pd
 from covid19_stats import *
 
 def get_death_counts():
-	files = [f'collect_1/data/wikidata_{t}.csv' for t in ['conflicts','disasters','massacres']]
-	df = pd.DataFrame()
-	for f in files:
-		df = df.append(pd.read_csv(f),ignore_index=True)
-	df = df[pd.to_numeric(df['deaths'],errors='coerce')>100]
-	df = df.drop_duplicates('itemLabel')
-	df['safeName'] = df['itemLabel'].str.replace(' ','')
+	df = pd.read_csv('collect_1/data/death_stats.csv')
 	df = df.set_index('safeName')
 	dates = df[['deaths','pointintime','itemLabel']].to_dict(orient='index')
 	return dates
