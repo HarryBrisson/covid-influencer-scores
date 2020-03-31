@@ -26,14 +26,26 @@ def main():
 
 	print(event)
 
+	countries = list(['all','USA'])
+
 	if event:
 		date = get_estimated_date(current_deathcount,event,increase_rate)
+		dates = get_growth_trajectory(current_deathcount,event,increase_rate)
 	else:
 		date = None
+		dates = []
 
 	print(date)
 
-	html = render_template('main.html',events=events, event=event, increase_rate=increase_rate, date=date, country=country)
+	event_names = [''] + list(events.keys())
+
+
+	html = render_template('main.html',
+		events=events, event=event, 
+		event_names = event_names,
+		increase_rate=increase_rate, 
+		date=date, dates=dates, 
+		country=country, countries=countries)
 	return(html)
 
 
