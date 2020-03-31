@@ -23,8 +23,9 @@
     {% if date %}
     <i>if acceleration continues, {{country}} death count will match {{events[event]['itemLabel']}} ({{ "{:,.0f}".format(events[event]['deaths'])}}) by {{date}}</i>
     </p>
-    <p>daily growth rate: {{ "{:.2f}".format(100*(increase_rate-1)) }}%</p>
+    <p>daily growth rate (past 7 day avg): {{ "{:.2f}".format(100*(increase_rate-1)) }}%</p>
     <p>this is not an epidemiological model, just a demonstration of exponential growth</p>
+    <p>(eg., projection does not account for population caps)</p>
     <table class="blueTable">
       <thead>
         <tr>
