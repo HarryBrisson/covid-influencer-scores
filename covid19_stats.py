@@ -28,8 +28,8 @@ def get_date_from_today(offset=0,fmt='%-m/%-d/%y'):
 
 def get_death_daily_increase_rate(country="all"):
 	data = get_historical_data(country=country)
-	yday = get_date_from_today(offset=-1)
-	week_before_yday = get_date_from_today(offset=-8)
+	yday = get_date_from_today(offset=-2)
+	week_before_yday = get_date_from_today(offset=-9)
 	print(country)
 	if country != "all":
 		data = data['timeline']
