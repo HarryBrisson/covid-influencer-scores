@@ -12,7 +12,7 @@ def get_countries():
 	headers = {'user-agent':'ic19ka 0.1'}
 	r = requests.get(f'https://corona.lmao.ninja/v2/historical/', headers=headers)
 	data = r.json()
-	week_before_yday = get_date_from_today(offset=-8)
+	week_before_yday = get_date_from_today(offset=-9)
 	df = pd.DataFrame(data)
 	df['last_week'] = df['timeline'].apply(lambda x: x['deaths'][week_before_yday])
 	df = df[df['last_week']>0]
@@ -38,7 +38,7 @@ def get_death_daily_increase_rate(country="all"):
 
 def get_yesterdays_deathcount(country="all"):
 	data = get_historical_data(country=country)
-	yday = get_date_from_today(offset=-1)
+	yday = get_date_from_today(offset=-2)
 	if country != "all":
 		data = data['timeline']
 	return data['deaths'][yday]
