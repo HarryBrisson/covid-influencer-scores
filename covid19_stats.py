@@ -4,11 +4,13 @@ import requests
 import pandas as pd
 
 def get_historical_data(country="all"):
-	r = requests.get(f'https://corona.lmao.ninja/v2/historical/{country}')
+	headers = {'user-agent':'ic19ka 0.1'}
+	r = requests.get(f'https://corona.lmao.ninja/v2/historical/{country}', headers=headers)
 	return r.json()
 
 def get_countries():
-	r = requests.get(f'https://corona.lmao.ninja/v2/historical/')
+	headers = {'user-agent':'ic19ka 0.1'}
+	r = requests.get(f'https://corona.lmao.ninja/v2/historical/', headers=headers)
 	data = r.json()
 	week_before_yday = get_date_from_today(offset=-8)
 	df = pd.DataFrame(data)
